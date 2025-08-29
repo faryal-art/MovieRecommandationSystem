@@ -18,9 +18,7 @@ Built with **Python**, **Machine Learning**, and **Streamlit**, this project dem
 - 🖥️ [How to Run Locally](#️-how-to-run-locally)  
 - 🌐 [Deployment](#-deployment)  
 - 📒 [Google Colab Notebook](#-google-colab-notebook)  
-- 📊 [Results & Screenshots](#-results--screenshots)  
-- 🤝 [Contributing](#-contributing)  
-- 📜 [License](#-license)  
+- 🤝 [Contributing](#-contributing) 
 
 ---
 
@@ -125,4 +123,18 @@ streamlit run app.py
 
 (https://colab.research.google.com/drive/19fBbf_prOxvtuMOwjrv4EyEJb0ON3J2N#scrollTo=s0kTLHChovfA)
 
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome.
+
+Feel free to fork the repo and submit pull requests.
+
+## 📬 Contact Me  
+
+If you have any questions, suggestions, or collaboration ideas, feel free to reach out:  
+
+- 👩‍💻 **Faryal Nishat**  
+- 📧 Email: [your-email@example.com](faryalnishat7@gmail.com)  
+- 🌐 GitHub: [faryal-art](https://github.com/faryal-art)  
+- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/faryal-nishat-5a24422b1/)  
 
